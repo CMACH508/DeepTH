@@ -37,7 +37,7 @@ torch>=1.6.0
 shapely>=1.7.0 
 
 ## Train and Test
-ISPD2005 dataset is used in the experiment. If you want to train your own model,  
+ISPD2005 dataset is used in the experiment. The processed data is provided in <https://pan.baidu.com/s/1uDlRzpX209Kw3FjESCtzyA?pwd=feb0> (Verification code is feb0) If you want to train your own model,  
 
     batch run.text
 If you want to test the model
